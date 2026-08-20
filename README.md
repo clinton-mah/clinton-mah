@@ -72,5 +72,3 @@ I use GitHub to:
 📫 Connect With Me
 
 Email: ncmaholobela4@gmail.com
-
-💡 Learn. Build. Improve.
